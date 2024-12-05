@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\source\\repos\\SevenStoreMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|c:\\users\\asus\\source\\repos\\sevenstoremvc\\sevenstoremvc\\sevenstoremvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|solutionrelative:sevenstoremvc\\sevenstoremvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SevenStoreMVC",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\SevenStoreMVC\\SevenStoreMVC\\SevenStoreMVC.csproj",
+              "RelativeDocumentMoniker": "SevenStoreMVC\\SevenStoreMVC.csproj",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\SevenStoreMVC\\SevenStoreMVC\\SevenStoreMVC.csproj",
+              "RelativeToolTip": "SevenStoreMVC\\SevenStoreMVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-05T15:12:48.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
