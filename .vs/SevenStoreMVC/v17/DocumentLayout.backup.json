@@ -1,12 +1,105 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\asus\\source\\repos\\SevenStoreMVC\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\asus\\source\\repos\\BTL-Net2\\SevenStoreMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|c:\\users\\asus\\source\\repos\\btl-net2\\sevenstoremvc\\sevenstoremvc\\controllers\\hanghoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|solutionrelative:sevenstoremvc\\controllers\\hanghoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|c:\\users\\asus\\source\\repos\\btl-net2\\sevenstoremvc\\sevenstoremvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|solutionrelative:sevenstoremvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|c:\\users\\asus\\source\\repos\\btl-net2\\sevenstoremvc\\sevenstoremvc\\sevenstoremvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|solutionrelative:sevenstoremvc\\sevenstoremvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|c:\\users\\asus\\source\\repos\\btl-net2\\sevenstoremvc\\sevenstoremvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|solutionrelative:sevenstoremvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|c:\\users\\asus\\source\\repos\\btl-net2\\sevenstoremvc\\sevenstoremvc\\data\\hshop2023context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|solutionrelative:sevenstoremvc\\data\\hshop2023context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HangHoasController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BTL-Net2\\SevenStoreMVC\\SevenStoreMVC\\Controllers\\HangHoasController.cs",
+              "RelativeDocumentMoniker": "SevenStoreMVC\\Controllers\\HangHoasController.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\BTL-Net2\\SevenStoreMVC\\SevenStoreMVC\\Controllers\\HangHoasController.cs",
+              "RelativeToolTip": "SevenStoreMVC\\Controllers\\HangHoasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T05:22:55.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BTL-Net2\\SevenStoreMVC\\SevenStoreMVC\\Program.cs",
+              "RelativeDocumentMoniker": "SevenStoreMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\BTL-Net2\\SevenStoreMVC\\SevenStoreMVC\\Program.cs",
+              "RelativeToolTip": "SevenStoreMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T04:52:01.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hshop2023Context.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BTL-Net2\\SevenStoreMVC\\SevenStoreMVC\\Data\\Hshop2023Context.cs",
+              "RelativeDocumentMoniker": "SevenStoreMVC\\Data\\Hshop2023Context.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\BTL-Net2\\SevenStoreMVC\\SevenStoreMVC\\Data\\Hshop2023Context.cs",
+              "RelativeToolTip": "SevenStoreMVC\\Data\\Hshop2023Context.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAA6wEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T04:48:35.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BTL-Net2\\SevenStoreMVC\\SevenStoreMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "SevenStoreMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\BTL-Net2\\SevenStoreMVC\\SevenStoreMVC\\appsettings.json",
+              "RelativeToolTip": "SevenStoreMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-06T04:40:55.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SevenStoreMVC.csproj",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BTL-Net2\\SevenStoreMVC\\SevenStoreMVC\\SevenStoreMVC.csproj",
+              "RelativeDocumentMoniker": "SevenStoreMVC\\SevenStoreMVC.csproj",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\BTL-Net2\\SevenStoreMVC\\SevenStoreMVC\\SevenStoreMVC.csproj",
+              "RelativeToolTip": "SevenStoreMVC\\SevenStoreMVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-05T15:12:48.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
