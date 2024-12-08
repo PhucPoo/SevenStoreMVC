@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SevenStoreMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1aefab4432d3ec83c68f45ef7c530f9b38297cc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e66681bc365c1eab327d010fe4f49bdee764c16")]
 [assembly: System.Reflection.AssemblyProductAttribute("SevenStoreMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SevenStoreMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

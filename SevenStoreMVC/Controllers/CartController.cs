@@ -11,8 +11,8 @@ namespace SevenStoreMVC.Controllers
         public CartController(Hshop2023Context context) {
             db = context; 
         }
-        const string CART_KEY = "MYCART";
-        public List<CartItem> Cart => HttpContext.Session.Get<List<CartItem>>(CART_KEY) ?? new List<CartItem>();
+       
+        public List<CartItem> Cart => HttpContext.Session.Get<List<CartItem>>(MySetting.CART_KEY) ?? new List<CartItem>();
         public IActionResult Index()
         {
             return View(Cart);
@@ -20,6 +20,7 @@ namespace SevenStoreMVC.Controllers
         
         public IActionResult AddToCart (int id, int quantity = 1)
         {
+           
             var gioHang = Cart;
             var item = gioHang.SingleOrDefault(p => p.MaHh == id);
             if (item == null)
@@ -45,7 +46,7 @@ namespace SevenStoreMVC.Controllers
                 item.SoLuong += quantity;
             }
 
-            HttpContext.Session.Set(CART_KEY, gioHang);
+            HttpContext.Session.Set(MySetting.CART_KEY, gioHang);
 
             return RedirectToAction("Index");
         }
@@ -56,7 +57,7 @@ namespace SevenStoreMVC.Controllers
             if(item!=null)
             {
                 gioHang.Remove(item);
-                HttpContext.Session.Set(CART_KEY, gioHang);
+                HttpContext.Session.Set(MySetting.CART_KEY, gioHang);
             }
             return RedirectToAction("Index");
         }
