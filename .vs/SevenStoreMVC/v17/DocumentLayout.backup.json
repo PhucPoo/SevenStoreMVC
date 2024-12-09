@@ -3,36 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\asus\\source\\repos\\BTL-Net2\\SevenStoreMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|c:\\users\\asus\\source\\repos\\btl-net2\\sevenstoremvc\\sevenstoremvc\\migrations\\20241209153602_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|solutionrelative:sevenstoremvc\\migrations\\20241209153602_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|c:\\users\\asus\\source\\repos\\btl-net2\\sevenstoremvc\\sevenstoremvc\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|solutionrelative:sevenstoremvc\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|c:\\users\\asus\\source\\repos\\btl-net2\\sevenstoremvc\\sevenstoremvc\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|solutionrelative:sevenstoremvc\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|c:\\users\\asus\\source\\repos\\btl-net2\\sevenstoremvc\\sevenstoremvc\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|solutionrelative:sevenstoremvc\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|c:\\users\\asus\\source\\repos\\btl-net2\\sevenstoremvc\\sevenstoremvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|solutionrelative:sevenstoremvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|c:\\users\\asus\\source\\repos\\btl-net2\\sevenstoremvc\\sevenstoremvc\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|solutionrelative:sevenstoremvc\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|c:\\users\\asus\\source\\repos\\btl-net2\\sevenstoremvc\\sevenstoremvc\\migrations\\20241209153756_updatekhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|solutionrelative:sevenstoremvc\\migrations\\20241209153756_updatekhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|c:\\users\\asus\\source\\repos\\btl-net2\\sevenstoremvc\\sevenstoremvc\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|solutionrelative:sevenstoremvc\\controllers\\khachhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|c:\\users\\asus\\source\\repos\\btl-net2\\sevenstoremvc\\sevenstoremvc\\views\\khachhang\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|solutionrelative:sevenstoremvc\\views\\khachhang\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|c:\\users\\asus\\source\\repos\\btl-net2\\sevenstoremvc\\sevenstoremvc\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|solutionrelative:sevenstoremvc\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|c:\\users\\asus\\source\\repos\\btl-net2\\sevenstoremvc\\sevenstoremvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|solutionrelative:sevenstoremvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|c:\\users\\asus\\source\\repos\\btl-net2\\sevenstoremvc\\sevenstoremvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|solutionrelative:sevenstoremvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|c:\\users\\asus\\source\\repos\\btl-net2\\sevenstoremvc\\sevenstoremvc\\views\\khachhang\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|solutionrelative:sevenstoremvc\\views\\khachhang\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|c:\\users\\asus\\source\\repos\\btl-net2\\sevenstoremvc\\sevenstoremvc\\views\\khachhang\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -43,32 +39,16 @@
       "RelativeMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|solutionrelative:sevenstoremvc\\helpers\\dataencryptionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|c:\\users\\asus\\source\\repos\\btl-net2\\sevenstoremvc\\sevenstoremvc\\views\\khachhang\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|solutionrelative:sevenstoremvc\\views\\khachhang\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|c:\\users\\asus\\source\\repos\\btl-net2\\sevenstoremvc\\sevenstoremvc\\views\\hanghoas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|solutionrelative:sevenstoremvc\\views\\hanghoas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|c:\\users\\asus\\source\\repos\\btl-net2\\sevenstoremvc\\sevenstoremvc\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|solutionrelative:sevenstoremvc\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|c:\\users\\asus\\source\\repos\\btl-net2\\sevenstoremvc\\sevenstoremvc\\helpers\\myutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|solutionrelative:sevenstoremvc\\helpers\\myutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|c:\\users\\asus\\source\\repos\\btl-net2\\sevenstoremvc\\sevenstoremvc\\views\\khachhang\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|solutionrelative:sevenstoremvc\\views\\khachhang\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|c:\\users\\asus\\source\\repos\\btl-net2\\sevenstoremvc\\sevenstoremvc\\helpers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|solutionrelative:sevenstoremvc\\helpers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|c:\\users\\asus\\source\\repos\\btl-net2\\sevenstoremvc\\sevenstoremvc\\wwwroot\\chackout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|solutionrelative:sevenstoremvc\\wwwroot\\chackout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|c:\\users\\asus\\source\\repos\\btl-net2\\sevenstoremvc\\sevenstoremvc\\views\\hanghoas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|solutionrelative:sevenstoremvc\\views\\hanghoas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|c:\\users\\asus\\source\\repos\\btl-net2\\sevenstoremvc\\sevenstoremvc\\helpers\\myutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C41E4F76-A893-4BC4-8243-F19FFEDF8524}|SevenStoreMVC\\SevenStoreMVC.csproj|solutionrelative:sevenstoremvc\\helpers\\myutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -87,71 +67,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "20241209153756_UpdateKhachHang.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BTL-Net2\\SevenStoreMVC\\SevenStoreMVC\\Migrations\\20241209153756_UpdateKhachHang.cs",
-              "RelativeDocumentMoniker": "SevenStoreMVC\\Migrations\\20241209153756_UpdateKhachHang.cs",
-              "ToolTip": "C:\\Users\\asus\\source\\repos\\BTL-Net2\\SevenStoreMVC\\SevenStoreMVC\\Migrations\\20241209153756_UpdateKhachHang.cs",
-              "RelativeToolTip": "SevenStoreMVC\\Migrations\\20241209153756_UpdateKhachHang.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T15:37:56.371Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20241209153602_Register.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BTL-Net2\\SevenStoreMVC\\SevenStoreMVC\\Migrations\\20241209153602_Register.cs",
-              "RelativeDocumentMoniker": "SevenStoreMVC\\Migrations\\20241209153602_Register.cs",
-              "ToolTip": "C:\\Users\\asus\\source\\repos\\BTL-Net2\\SevenStoreMVC\\SevenStoreMVC\\Migrations\\20241209153602_Register.cs",
-              "RelativeToolTip": "SevenStoreMVC\\Migrations\\20241209153602_Register.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAYwB8AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T15:36:02.778Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BTL-Net2\\SevenStoreMVC\\SevenStoreMVC\\appsettings.json",
-              "RelativeDocumentMoniker": "SevenStoreMVC\\appsettings.json",
-              "ToolTip": "C:\\Users\\asus\\source\\repos\\BTL-Net2\\SevenStoreMVC\\SevenStoreMVC\\appsettings.json",
-              "RelativeToolTip": "SevenStoreMVC\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-09T15:34:11.668Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Profile.cshtml",
-              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BTL-Net2\\SevenStoreMVC\\SevenStoreMVC\\Views\\KhachHang\\Profile.cshtml",
-              "RelativeDocumentMoniker": "SevenStoreMVC\\Views\\KhachHang\\Profile.cshtml",
-              "ToolTip": "C:\\Users\\asus\\source\\repos\\BTL-Net2\\SevenStoreMVC\\SevenStoreMVC\\Views\\KhachHang\\Profile.cshtml",
-              "RelativeToolTip": "SevenStoreMVC\\Views\\KhachHang\\Profile.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-09T15:02:43.979Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DangNhap.cshtml",
-              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BTL-Net2\\SevenStoreMVC\\SevenStoreMVC\\Views\\KhachHang\\DangNhap.cshtml",
-              "RelativeDocumentMoniker": "SevenStoreMVC\\Views\\KhachHang\\DangNhap.cshtml",
-              "ToolTip": "C:\\Users\\asus\\source\\repos\\BTL-Net2\\SevenStoreMVC\\SevenStoreMVC\\Views\\KhachHang\\DangNhap.cshtml",
-              "RelativeToolTip": "SevenStoreMVC\\Views\\KhachHang\\DangNhap.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-09T14:12:01.623Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "LoginVM.cs",
               "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BTL-Net2\\SevenStoreMVC\\SevenStoreMVC\\ViewModels\\LoginVM.cs",
               "RelativeDocumentMoniker": "SevenStoreMVC\\ViewModels\\LoginVM.cs",
@@ -160,24 +75,61 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-09T06:56:32.529Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BTL-Net2\\SevenStoreMVC\\SevenStoreMVC\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "SevenStoreMVC\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\BTL-Net2\\SevenStoreMVC\\SevenStoreMVC\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "SevenStoreMVC\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAC4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T16:53:51.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BTL-Net2\\SevenStoreMVC\\SevenStoreMVC\\Views\\KhachHang\\Profile.cshtml",
+              "RelativeDocumentMoniker": "SevenStoreMVC\\Views\\KhachHang\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\BTL-Net2\\SevenStoreMVC\\SevenStoreMVC\\Views\\KhachHang\\Profile.cshtml",
+              "RelativeToolTip": "SevenStoreMVC\\Views\\KhachHang\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T15:02:43.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DangNhap.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BTL-Net2\\SevenStoreMVC\\SevenStoreMVC\\Views\\KhachHang\\DangNhap.cshtml",
+              "RelativeDocumentMoniker": "SevenStoreMVC\\Views\\KhachHang\\DangNhap.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\BTL-Net2\\SevenStoreMVC\\SevenStoreMVC\\Views\\KhachHang\\DangNhap.cshtml",
+              "RelativeToolTip": "SevenStoreMVC\\Views\\KhachHang\\DangNhap.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T14:12:01.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "DataEncryptionExtensions.cs",
               "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BTL-Net2\\SevenStoreMVC\\SevenStoreMVC\\Helpers\\DataEncryptionExtensions.cs",
               "RelativeDocumentMoniker": "SevenStoreMVC\\Helpers\\DataEncryptionExtensions.cs",
               "ToolTip": "C:\\Users\\asus\\source\\repos\\BTL-Net2\\SevenStoreMVC\\SevenStoreMVC\\Helpers\\DataEncryptionExtensions.cs",
               "RelativeToolTip": "SevenStoreMVC\\Helpers\\DataEncryptionExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T16:08:19.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T16:08:19.268Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "MyUtil.cs",
               "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BTL-Net2\\SevenStoreMVC\\SevenStoreMVC\\Helpers\\MyUtil.cs",
               "RelativeDocumentMoniker": "SevenStoreMVC\\Helpers\\MyUtil.cs",
@@ -185,12 +137,11 @@
               "RelativeToolTip": "SevenStoreMVC\\Helpers\\MyUtil.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAIwBcAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T15:30:20.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T15:30:20.763Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BTL-Net2\\SevenStoreMVC\\SevenStoreMVC\\Program.cs",
               "RelativeDocumentMoniker": "SevenStoreMVC\\Program.cs",
@@ -203,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 10,
               "Title": "AutoMapperProfile.cs",
               "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BTL-Net2\\SevenStoreMVC\\SevenStoreMVC\\Helpers\\AutoMapperProfile.cs",
               "RelativeDocumentMoniker": "SevenStoreMVC\\Helpers\\AutoMapperProfile.cs",
@@ -211,38 +162,24 @@
               "RelativeToolTip": "SevenStoreMVC\\Helpers\\AutoMapperProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T15:06:34.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T15:06:34.108Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
               "Title": "_LayoutCustomer.cshtml",
               "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BTL-Net2\\SevenStoreMVC\\SevenStoreMVC\\Views\\Shared\\_LayoutCustomer.cshtml",
               "RelativeDocumentMoniker": "SevenStoreMVC\\Views\\Shared\\_LayoutCustomer.cshtml",
               "ToolTip": "C:\\Users\\asus\\source\\repos\\BTL-Net2\\SevenStoreMVC\\SevenStoreMVC\\Views\\Shared\\_LayoutCustomer.cshtml",
               "RelativeToolTip": "SevenStoreMVC\\Views\\Shared\\_LayoutCustomer.cshtml",
-              "ViewState": "AgIAAD8AAAAAAAAAAAArwEoAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAowCUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-08T14:58:48.27Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "chackout.html",
-              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BTL-Net2\\SevenStoreMVC\\SevenStoreMVC\\wwwroot\\chackout.html",
-              "RelativeDocumentMoniker": "SevenStoreMVC\\wwwroot\\chackout.html",
-              "ToolTip": "C:\\Users\\asus\\source\\repos\\BTL-Net2\\SevenStoreMVC\\SevenStoreMVC\\wwwroot\\chackout.html",
-              "RelativeToolTip": "SevenStoreMVC\\wwwroot\\chackout.html",
-              "ViewState": "AgIAAC0BAAAAAAAAAAAQwEEBAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-12-08T13:27:06.51Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "DangKy.cshtml",
               "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BTL-Net2\\SevenStoreMVC\\SevenStoreMVC\\Views\\KhachHang\\DangKy.cshtml",
               "RelativeDocumentMoniker": "SevenStoreMVC\\Views\\KhachHang\\DangKy.cshtml",
@@ -250,8 +187,7 @@
               "RelativeToolTip": "SevenStoreMVC\\Views\\KhachHang\\DangKy.cshtml",
               "ViewState": "AgIAACEAAAAAAAAAAAAwwAoAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-08T13:26:17.064Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T13:26:17.064Z"
             },
             {
               "$type": "Document",
@@ -263,12 +199,11 @@
               "RelativeToolTip": "SevenStoreMVC\\Controllers\\KhachHangController.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAA9wDUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T13:23:43.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T13:23:43.614Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "RegisterVM.cs",
               "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BTL-Net2\\SevenStoreMVC\\SevenStoreMVC\\ViewModels\\RegisterVM.cs",
               "RelativeDocumentMoniker": "SevenStoreMVC\\ViewModels\\RegisterVM.cs",
@@ -276,34 +211,7 @@
               "RelativeToolTip": "SevenStoreMVC\\ViewModels\\RegisterVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T13:10:45.661Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BTL-Net2\\SevenStoreMVC\\SevenStoreMVC\\Views\\HangHoas\\Edit.cshtml",
-              "RelativeDocumentMoniker": "SevenStoreMVC\\Views\\HangHoas\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\asus\\source\\repos\\BTL-Net2\\SevenStoreMVC\\SevenStoreMVC\\Views\\HangHoas\\Edit.cshtml",
-              "RelativeToolTip": "SevenStoreMVC\\Views\\HangHoas\\Edit.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-07T15:43:42.2Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\BTL-Net2\\SevenStoreMVC\\SevenStoreMVC\\Views\\HangHoas\\Details.cshtml",
-              "RelativeDocumentMoniker": "SevenStoreMVC\\Views\\HangHoas\\Details.cshtml",
-              "ToolTip": "C:\\Users\\asus\\source\\repos\\BTL-Net2\\SevenStoreMVC\\SevenStoreMVC\\Views\\HangHoas\\Details.cshtml",
-              "RelativeToolTip": "SevenStoreMVC\\Views\\HangHoas\\Details.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAFIAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-07T15:43:25.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T13:10:45.661Z"
             }
           ]
         }
